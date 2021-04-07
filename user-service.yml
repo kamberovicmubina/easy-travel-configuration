@@ -1,5 +1,0 @@
-spring:
-  datasource:
-    username: root
-    password: casosheivica1
-    url: jdbc:mysql://localhost:3306/easy_travel?serverTimezone=UTC
