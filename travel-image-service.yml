@@ -1,4 +1,3 @@
 spring:
   datasource:
-    url: jdbc:mysql://mysql-travels:3308/putovanje_mikroservis?serverTimezone=UTC
-    #url: jdbc:mysql://localhost:3306/putovanje_mikroservis?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/putovanje_mikroservis?serverTimezone=UTC
