@@ -1,4 +1,3 @@
 spring:
   datasource:
-    url: jdbc:mysql://mysql-zuul:3307/usersdata?serverTimezone=UTC
-#    url: jdbc:mysql://localhost:3306/usersdata?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/usersdata?serverTimezone=UTC
